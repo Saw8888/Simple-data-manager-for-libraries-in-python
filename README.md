@@ -1,1 +1,1 @@
-# Simple-data-manager-for-libraries-in-python
+# Simple-data-manager-for-lists-in-python
